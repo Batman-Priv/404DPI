@@ -11,7 +11,7 @@
 [![Protocol](https://img.shields.io/badge/protocol-TLS%20%2F%20QUIC-blue)](#how-it-works)
 [![Proxy](https://img.shields.io/badge/proxy-HTTP%20%2F%20SOCKS5-purple)](#socks5-and-doh)
 
-**English** | [**فارسی**](https://github.com/specterog/404DPI/blob/main/readmefa.md) 
+**English** | [**فارسی**](https://gitlab.com/specterog/404DPI/blob/main/readmefa.md) 
 
 </div>
 
