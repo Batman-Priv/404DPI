@@ -5,7 +5,7 @@
 **یه پروکسی محلی و رایگان که به‌جای مبارزه با فیلترینگ، هوشمندانه دورش می‌زنه!**
 
 [![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-specterog%2F404DPI-181717?logo=github&logoColor=white)](https://github.com/specterog/404DPI)
+[![GitHub](https://img.shields.io/badge/GitHub-Batman-Priv%2F404DPI-181717?logo=github&logoColor=white)](https://github.com/Batman-Priv/404DPI)
 
 </div>
 
@@ -60,7 +60,7 @@
 ### روش ۱: کلون کردن و بیلد کردن (بهترین روش)
 
 ```bash
-git clone https://github.com/specterog/404DPI
+git clone https://github.com/Batman-Priv/404DPI
 cd 404DPI
 
 go mod tidy
@@ -82,7 +82,7 @@ go build -o 404DPI .
 اگه Go روت نصبه و می‌خوای مستقیم آخرین نسخه رو بگیری:
 
 ```bash
-go install github.com/specterog/404DPI@latest
+go install github.com/Batman-Priv/404DPI@latest
 ```
 
 باینری توی مسیر `GOPATH/bin` قرار می‌گیره (معمولاً `~/go/bin`)، مطمئن شو این مسیر توی `PATH` سیستمت هست تا بتونی مستقیم بنویسی `404DPI` و اجرا بشه.

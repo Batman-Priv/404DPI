@@ -1,3 +1,3 @@
-module gitlab.com/specterog/404DPI
+module github.com/Batman-Priv/404DPI
 
 go 1.22

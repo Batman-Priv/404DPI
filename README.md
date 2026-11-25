@@ -7,11 +7,11 @@
 **Adaptive DPI-aware proxying for hostile, filtered, or unreliable networks.**
 
 [![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go\&logoColor=white)](https://go.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-specterog%2F404DPI-181717?logo=github\&logoColor=white)](https://github.com/batmanpri404DPI)
+[![GitHub](https://img.shields.io/badge/GitHub-Batman-Priv%2F404DPI-181717?logo=github\&logoColor=white)](https://github.com/batmanpri404DPI)
 [![Protocol](https://img.shields.io/badge/protocol-TLS%20%2F%20QUIC-blue)](#how-it-works)
 [![Proxy](https://img.shields.io/badge/proxy-HTTP%20%2F%20SOCKS5-purple)](#socks5-and-doh)
 
-**English** | [**فارسی**](https://gitlab.com/specterog/404DPI/blob/main/readmefa.md) 
+**English** | [**فارسی**](https://github.com/Batman-Priv/404DPI/blob/main/readmefa.md) 
 
 </div>
 
@@ -133,7 +133,7 @@ changes the security model (see [Security model](#security-model)).
 ### Clone and build (recommended — always works)
 
 ```bash
-git clone https://github.com/specterog/404DPI
+git clone https://github.com/Batman-Priv/404DPI
 cd 404DPI
 
 go mod tidy
@@ -158,7 +158,7 @@ go build ./...
 ### `go install`
 
 ```bash
-go install github.com/specterog/404DPI@latest
+go install github.com/Batman-Priv/404DPI@latest
 ```
 
 ---
